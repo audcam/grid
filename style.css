@@ -1,0 +1,171 @@
+body{
+    font-family: 'Inter', sans-serif;
+    color:#2D3436;
+    
+}
+header{
+    padding: 1%;
+    box-shadow: 0px 4px 8px 0px #26323814;
+    box-shadow: 0px 2px 4px 0px #26323829;
+    
+}
+
+h3{
+    font-weight: 700;
+    font-size: 48px;
+}
+.nav-item{
+    font-weight: 400;
+    font-size: 18px;
+    color: #6C5CE7;
+    
+}
+span{
+    color: #FDCB6E;
+}
+.btn-primary{
+    font-weight: 400;
+    font-size: 24px; 
+    background: #6C5CE7;
+    border-radius: 999px;
+    color: white;
+    padding:2%;
+    height: 64px;
+    width: 170px;
+    border-radius: 999px;
+
+}
+.rect{
+    z-index: -3;
+    opacity: 45%;
+}
+.dot{
+    z-index: -2;
+}
+h1{
+    font-weight: 800;
+    font-size: 96px;
+    text-align: center;
+    z-index: -1;
+    text-shadow: 0px 4px 0px #FFFFFF;
+    padding-top: 4%;
+    line-height: 104px;
+
+}
+h1 span{
+    color: #D63031;
+    text-align: justify;
+    text-decoration: underline;     
+    text-decoration-color: #55EFC4;  
+}
+h2{
+    font-weight: 900;
+    font-size:64px;
+    text-align: center;
+    padding-top: 3%;
+
+}
+
+.flex-item{
+    max-width: 270px;
+    min-width: 270px;
+    margin: auto;
+}
+h4{
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 48px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    
+}
+.purpose{
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 36px;
+letter-spacing: -0.25px;
+text-align: left;
+
+}
+#phone-icon{
+    background-color: #E84393;
+    border-radius: 99999px;
+}
+.btn-outline-primary{
+    color: #6C5CE7;
+    border: 1px solid #ADADAD;
+    border-radius: 16px;
+}
+.btn-outline-primary:hover{
+background-color: #6C5CE7;
+}
+
+h5{
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0.25px;
+text-align: left;
+}
+.para18{
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0px;
+text-align: left;
+}
+
+#pieicon{
+    background-color:#0984E3;
+    border-radius: 999px;
+}
+#lightning{
+    background-color: #6C5CE7;
+    border-radius: 999px;
+
+}
+#thumb{
+    background-color: #00B894;
+    border-radius: 999px;
+
+}
+#affordable h4{
+    color:#ADADAD;
+}
+.deliver{
+ margin-left: 4%;
+ max-width:900px;
+}
+
+footer p{
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 800;
+line-height: 15px;
+letter-spacing: 2.5px;
+text-align: left;
+color: #ADADAD;
+}
+
+footer li{
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.25px;
+text-align: left;
+padding:5%;
+}
+footer{
+    margin-top: 80px;
+}
+footer h4{
+    color: #6C5CE7;
+}
